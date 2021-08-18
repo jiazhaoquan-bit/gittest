@@ -1,2 +1,3 @@
 1：建立分区dev
-2：分区之后建立
+2：分区之后建立push步骤和第一部一样
+3：dev分区和master合并右下角先切换到master，然后再进行 Merge into Current
